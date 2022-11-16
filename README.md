@@ -1,2 +1,2 @@
-# -bridge
+# bridge
 To do project bridge
